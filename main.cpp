@@ -8,7 +8,7 @@ int main()
     Persona P;
     P.nombre = "David Brito";
     P.edad = 21;
-    cout <<P.nombre<<endl;
-    cout <<P.edad <<endl;
+    cout <<"Nombre: "<<P.nombre<<endl;
+    cout <<"Edad: "<<P.edad <<endl;
     return 0;
 }
